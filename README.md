@@ -1,2 +1,2 @@
 # exercises
-Temporary repository for Git exercises
+Temporary repository for Git exercises......
